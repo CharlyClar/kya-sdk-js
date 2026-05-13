@@ -1,0 +1,23 @@
+{
+  "name": "@platform-auth/kya-sdk",
+  "version": "1.0.0",
+  "description": "SDK JavaScript pour l'authentification des agents KYA",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auth",
+    "ai",
+    "agents",
+    "kya",
+    "identity"
+  ],
+  "author": "Charly Clar",
+  "license": "MIT",
+  "dependencies": {
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}
