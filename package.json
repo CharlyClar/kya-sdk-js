@@ -1,6 +1,6 @@
 {
   "name": "@platform-auth/kya-sdk-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDK JavaScript pour l'authentification des agents KYA",
   "main": "index.js",
   "type": "module",
